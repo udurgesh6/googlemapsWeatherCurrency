@@ -1,8 +1,8 @@
-import Maps from './Maps';
+import Test from './Test';
 
 function App() {
   return (
-    <Maps/>
+    <Test/>  
   );
 }
 
